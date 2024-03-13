@@ -4,9 +4,7 @@ The ESP32-Tyranitar project is centered around the widely-used and budget-friend
 
 The code is written in micropython.
 
-<video width="100%" height="400" controls>
-  <source src="./demo.mp4" type="video/mp4">
-</video>
+https://github.com/qmffkem/esp32_tyranitar/assets/28370250/34cd1a42-3154-4d06-8a5c-29a06fe389b5
 
 ## Features
 * <b>ESP32 microcontroller:</b> Versatile microcontroller for small IOT project that's perfect for controlling various hardware modules with saving power consumption with the deep sleep mode.
